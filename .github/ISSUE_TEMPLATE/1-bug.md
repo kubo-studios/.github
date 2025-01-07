@@ -1,6 +1,6 @@
 ---
 name: Bug Report
-about: Create a report
+about: Create a bug report
 title: "[BUG] "
 labels: bug
 assignees: ''
@@ -8,16 +8,10 @@ assignees: ''
 
 ## Description
 
-## Expected Behavior
-
-
-## Actual Behavior
-
-
 ## Steps to Reproduce the Problem
 
   1.
   2.
   3.
 
-## Record
+## Screenshots and Videos
