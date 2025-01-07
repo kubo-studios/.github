@@ -1,3 +1,11 @@
+---
+name: Bug Report
+about: Create a report
+title: "[BUG] "
+labels: bug
+assignees: ''
+---
+
 ## Description
 
 ## Expected Behavior
